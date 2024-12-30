@@ -104,7 +104,7 @@ de: &DEFAULT_DE
   team:
     title: "Kontakt"
     text: "Wir freuen uns, von dir zu hören."
-    subtext:  **Markdown** supported.
+    subtext:  "**Markdown** supported."
     section: Team
     people:
       - name: "Doris Schäuble"
