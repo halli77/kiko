@@ -107,16 +107,12 @@ de: &DEFAULT_DE
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: Team
     people:
-      - name: "Kay Garland"
-        role: "Chef-Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Doris Schäuble"
+        role: "Chorleiterin"
+        image: assets/img/portfolio/doris.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: mailto:doris@kirchenchor-lauchringen.de
+            icon: fab fa-email
       - name: "Larry Parker"
         role: "Chef der Werbeabteilung"
         image: assets/img/team/2.jpg
