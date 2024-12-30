@@ -143,5 +143,7 @@ de: &DEFAULT_DE
     social:
       - url: https://instagram.com
         icon: "fab fa-instagram"
+      - url: https://crossiety.app/groups/14227/posts
+        icon: "fas fa-hashtag"
 de-DE:
   <<: *DEFAULT_DE
