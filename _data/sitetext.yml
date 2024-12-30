@@ -91,7 +91,6 @@ de: &DEFAULT_DE
     text: "Was geht."
     body: |
       Wir nutzen Crossity.
-      
     section: News
 
   clients:
