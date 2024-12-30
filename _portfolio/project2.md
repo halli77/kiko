@@ -1,8 +1,8 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Christel Mülhaupt
+subtitle: Orgel
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt:  
 
 caption:
   title: Christel Mülhaupt
