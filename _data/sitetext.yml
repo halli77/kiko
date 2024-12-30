@@ -13,8 +13,8 @@ de: &DEFAULT_DE
   header:
     title: Hallo!
     text:  
-    button: ⬇︎
-    buttonlink: "#Angebote"
+    button: 
+    buttonlink: 
 
   services:
     title: "Leistungen"
@@ -54,18 +54,24 @@ de: &DEFAULT_DE
         desc: "Doris Schäuble wird Chorleiterin, gemeinsam mit Christel Mülhaupt."
         image: assets/img/timeline/2.jpg
         alt:
+      - title: "Die Orgel bleibt stumm"
+        year: "Dezember 2023"
+        desc: "Die Orgel in Herz-Jesu ist technisch nicht mehr sicher und muss stillgelegt werden."
+        image: assets/img/timeline/3.jpg
+        alt: Bildbeschreibung
       - title: "Wir feiern 100. Geburtstag"
         year: "Oktober 2024"
         desc: "Unser 100-jähriges Chorjubiläum feiern wir mit einem Jubiläumskonzert."
         image: assets/img/timeline/3.jpg
         alt: Bildbeschreibung
-      - title: "Titel"
-        year: "2009-2011"
-        desc: "Hier können Sie etwas mit **Markdown** einfügen."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
+        
+      #- title: "Titel"
+      #  year: "2009-2011"
+      #  desc: "Hier können Sie etwas mit **Markdown** einfügen."
+      #  image: assets/img/timeline/4.jpg
+      #  alt:
+       # you can enforce the alignment
+       # align: right
     end: "Sei <br> Teil unserer <br> Geschichte!"
 
   about:
