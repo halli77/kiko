@@ -11,7 +11,7 @@
 # -----------------
 de: &DEFAULT_DE
   nav:
-    - title: "Über uns"
+    - title: "Hallo!"
       section: Ueber
     - title: "Geschichte"
       section: Geschichte
