@@ -1,7 +1,9 @@
 #Color Customization
-highlight: "#54bfff"
-white: "#FF0000"
-black: "#000"
+highlight: "#fed136"
+white: "#fff"
+black: "#093646"
+
+# #093646 = Chorgrau
 
 #Image Customization
 header-image: "../img/header.png"
