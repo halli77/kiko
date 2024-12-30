@@ -32,8 +32,8 @@ de: &DEFAULT_DE
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Team"
+    text: ""
     section: Portfolio
     closebutton: "Schließen"
 
