@@ -24,9 +24,15 @@ de: &DEFAULT_DE
       - title: "Chorleiterin Doris Schäuble"
         desc: "Doris ist ausgebildete Kirchenmusikerin."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
+        image: assets/img/portfolio/doris.jpg
+      - title: "Organistin Christel "
         desc: "Hier können Sie etwas mit **Markdown** einfügen."
         icon: fab fa-markdown
+        image: assets/img/portfolio/christel.jpg
+      - title: "Vorsitzender Herbert Schnäbele"
+        desc: "Herbert ist Vorsitzender."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        image: assets/img/portfolio/herbert.jpg
 
   portfolio:
     title: "Team"
