@@ -48,7 +48,7 @@ de: &DEFAULT_DE
     #start_align: "left"
     events:
       - title: "Chorgründung"
-        year: "13. August 1924"
+        year: "August 1924"
         desc: "Unser Chor wird gegründet von Pfarrer Ludwig Tröndle und Lehrer Linus Beha."
         image: assets/img/timeline/1.jpg
         alt:
