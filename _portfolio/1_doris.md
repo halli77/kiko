@@ -1,13 +1,13 @@
 ---
 title: Project Threads
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: /assets/img/portfolio/herbert.jpg
 alt:  
 
 caption:
   title: Doris Schäuble
   subtitle: Chorleiterin
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: /assets/img/portfolio/herbert.jpg
 ---
 
 Doris Schäuble ist Chorleiterin.
