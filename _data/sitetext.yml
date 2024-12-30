@@ -112,7 +112,7 @@ de: &DEFAULT_DE
         image: assets/img/portfolio/doris.jpg
         social:
           - url: mailto:doris@kirchenchor-lauchringen.de
-            icon: fa fa-envelope
+            icon: fab fa-envelope
       - name: "Herbert Schnäbele"
         role: "Vorsitzender"
         image: assets/img/portfolio/herbert.jpg
