@@ -44,19 +44,19 @@ de: &DEFAULT_DE
     # left is the default
     #start_align: "left"
     events:
-      - title: "Unsere Anfänge"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Chorgründung"
+        year: "1924"
+        desc: "Unser Chor wird gegründet."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Gründung der Firma"
-        year: "März 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Doris Schäuble wird Chorleiterin"
+        year: "März 2022"
+        desc: "Doris Schäuble wird Chorleiterin, gemeinsam mit Christel Mülhaupt."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Das Jekyll-Thema wurde erstellt"
-        year: "2019"
-        desc: "Ravi Riley wandelte Agency, ein auf Bootstrap basierendes Thema, in ein Jekyll-Thema um. Man kann das Jekyll-Thema als Ruby-Gem oder remotely installieren. Für mehr Informationen, schauen Sie sich die Dokumentation an."
+      - title: "Wir feiern 100. Geburtstag"
+        year: "Oktober 2024"
+        desc: "Unser 100-jähriges Chorjubiläum feiern wir mit einem Jubiläumskonzert."
         image: assets/img/timeline/3.jpg
         alt: Bildbeschreibung
       - title: "Titel"
