@@ -21,8 +21,8 @@ de: &DEFAULT_DE
     text: "Was wir anbieten."
     section: Leistungen
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Chorleiterin Doris Schäuble"
+        desc: "Doris ist ausgebildete Kirchenmusikerin."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
         desc: "Hier können Sie etwas mit **Markdown** einfügen."
