@@ -136,7 +136,7 @@ de: &DEFAULT_DE
     submit: "Nachricht absenden"
 
   footer:
-    legal: "Datenschutzerklärung"
+    legal: "Impressum"
     social:
       - url: https://instagram.com
         icon: "fab fa-instagram"
