@@ -13,12 +13,10 @@ de: &DEFAULT_DE
   nav:
     - title: "Über uns"
       section: Ueber
-    - title: "Team"
-      section: Portfolio
     - title: "Geschichte"
       section: Geschichte
     - title: "Kontakt"
-      section: Kontakt
+      section: Team
 #    - title: "Quellcode des Themas"
 #      url: https://github.com/raviriley/agency-jekyll-theme/
 de-DE:
