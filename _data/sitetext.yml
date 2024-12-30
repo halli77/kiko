@@ -112,10 +112,10 @@ de: &DEFAULT_DE
         image: assets/img/portfolio/doris.jpg
         social:
           - url: mailto:doris@kirchenchor-lauchringen.de
-            icon: fab fa-email
-      - name: "Larry Parker"
-        role: "Chef der Werbeabteilung"
-        image: assets/img/team/2.jpg
+            icon: fab fa-envelope
+      - name: "Christel Mülhaupt"
+        role: "Orgel"
+        image: assets/img/portfolio/christel.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -123,9 +123,9 @@ de: &DEFAULT_DE
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Chef-Programmiererin"
-        image: assets/img/team/500x500.jpg
+      - name: "Herbert Schnäbele"
+        role: "Vorsitzender"
+        image: assets/img/portfolio/herbert.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
