@@ -11,8 +11,8 @@
 # -----------------
 de: &DEFAULT_DE
   header:
-    title: Hallo!
-    text:  
+    title: 
+    text: Hallo!
     button: 
     buttonlink: 
 
@@ -113,26 +113,12 @@ de: &DEFAULT_DE
         social:
           - url: mailto:doris@kirchenchor-lauchringen.de
             icon: fa fa-envelope
-      - name: "Christel Mülhaupt"
-        role: "Orgel"
-        image: assets/img/portfolio/christel.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Herbert Schnäbele"
         role: "Vorsitzender"
         image: assets/img/portfolio/herbert.jpg
         social:
-          - url: https://twitter.com
+          - url: mailto:herbert@schnaebele.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
   contact:
     title: "Kontakt"
