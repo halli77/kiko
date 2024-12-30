@@ -102,9 +102,9 @@ de: &DEFAULT_DE
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Unser großartiges Team"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Kontakt"
+    text: "Wir freuen uns, von dir zu hören."
+    subtext:  **Markdown** supported.
     section: Team
     people:
       - name: "Doris Schäuble"
@@ -112,7 +112,7 @@ de: &DEFAULT_DE
         image: assets/img/portfolio/doris.jpg
         social:
           - url: mailto:doris@kirchenchor-lauchringen.de
-            icon: fab fa-envelope
+            icon: fa fa-envelope
       - name: "Christel Mülhaupt"
         role: "Orgel"
         image: assets/img/portfolio/christel.jpg
