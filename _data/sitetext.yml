@@ -104,7 +104,10 @@ de: &DEFAULT_DE
   team:
     title: "Kontakt"
     text: "Wir freuen uns, von dir zu hören."
-    subtext: 
+    subtext: |
+      **Willst du mitsingen?** 
+      
+      Alles, was du brauchst, ist Freude am Singen. Schau einfach mal vorbei.
     section: Team
     people:
       - name: "Doris Schäuble"
