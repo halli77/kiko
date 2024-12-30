@@ -39,7 +39,7 @@ de: &DEFAULT_DE
 
   timeline:
     title: "Geschichte"
-    text: "Lorem ipsum timeline"
+    text: "Meilensteine unserer Chorgeschichte."
     section: Geschichte
     # left is the default
     #start_align: "left"
@@ -66,7 +66,7 @@ de: &DEFAULT_DE
         alt:
         # you can enforce the alignment
         align: right
-    end: "Seien Sie <br> Teil unserer <br> Geschichte!"
+    end: "Sei <br> Teil unserer <br> Geschichte!"
 
   about:
     title: "Über uns"
