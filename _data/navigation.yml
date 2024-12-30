@@ -16,7 +16,7 @@ de: &DEFAULT_DE
     - title: "Team"
       section: Portfolio
     - title: "Aktuelles"
-      section News
+      section: News
     - title: "Geschichte"
       section: Geschichte
     - title: "Kontakt"
