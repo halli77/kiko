@@ -1,13 +1,13 @@
 ---
 title: Christel Mülhaupt
 subtitle: Orgel
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/christel.jpg
 alt:  
 
 caption:
   title: Christel Mülhaupt
   subtitle: Orgel
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/christel.jpg
 ---
 
 Christel Mülhaupt spielt Orgel.
