@@ -24,9 +24,6 @@ de: &DEFAULT_DE
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
       - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
         desc: "Hier können Sie etwas mit **Markdown** einfügen."
         icon: fab fa-markdown
