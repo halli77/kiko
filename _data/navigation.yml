@@ -14,7 +14,7 @@ de: &DEFAULT_DE
     - title: "Hallo!"
       section: Ueber
     - title: "Team"
-      section: Portfolio
+      section: portfolio
     - title: "Aktuelles"
       section: News
     - title: "Geschichte"
