@@ -38,7 +38,7 @@ de: &DEFAULT_DE
     title: "Team"
     text: "Musikalische und organisatorische Leitung unseres Chores."
     section: Portfolio
-    closebutton: "Schließen"
+    closebutton: "SCHLIESSEN"
 
   timeline:
     title: "Geschichte"
