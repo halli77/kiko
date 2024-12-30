@@ -48,10 +48,19 @@ de: &DEFAULT_DE
     #start_align: "left"
     events:
       - title: "Chorgründung"
-        year: "1924"
-        desc: "Unser Chor wird gegründet."
+        year: "13. August 1924"
+        desc: "Unser Chor wird gegründet von Pfarrer Ludwig Tröndle und Lehrer Linus Beha."
         image: assets/img/timeline/1.jpg
         alt:
+      - title: "Wilhelm Hamburger wird Chorleiter"
+        year: "1925"
+        desc: "Wilhelm Hamburger leitet den Chor von 1925 bis 1950."
+      - title: "Georg Lachnit übernimmt den Dirigentenstab"
+        year: "1950"
+        desc: "Geord Lachnit leitet den Chor von 1950 bis 1973."
+      - title: "Richard Schepperle wird Chorleiter"
+        year: "1973"
+        desc: "Geord Lachnit leitet den Chor von 1950 bis 1973."
       - title: "Doris Schäuble wird Chorleiterin"
         year: "März 2022"
         desc: "Doris Schäuble wird Chorleiterin, gemeinsam mit Christel Mülhaupt."
