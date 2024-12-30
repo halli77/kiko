@@ -72,7 +72,7 @@ de: &DEFAULT_DE
       #  alt:
        # you can enforce the alignment
        # align: right
-    end: "Sei <br> Teil unserer <br> Geschichte!"
+    end: "Werde <br> Teil unserer <br> Geschichte!"
 
   about:
     title: "Über uns"
