@@ -33,6 +33,8 @@
         &.active,
         &:hover {
           background-color: $primary;
+          font-weight: 500;
+          border-radius: 20px;
         }
       }
     }
