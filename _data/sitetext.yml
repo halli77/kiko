@@ -58,14 +58,14 @@ de: &DEFAULT_DE
 
   timeline:
     title: "Geschichte"
-    text: "Meilensteine unserer Chorgeschichte."
+    text: "Meilensteine unserer Chorgeschichte, in Anlehnung an die Festschrift zum 100-jährigen Jubiläum."
     section: Geschichte
     # left is the default
     #start_align: "left"
     events:
       - title: "Chorgründung"
-        year: "August 1924"
-        desc: "Unser Chor wird gegründet von Pfarrer Ludwig Tröndle und Lehrer Linus Beha."
+        year: "1924"
+        desc: "Am 13. August 1924 trafen sich Pfarrer Ludwig Tröndle, Lehrer Linus Beha und Mitglieder des bereits seit 1921 bestehenden gemischten Chores, um die Gründung des Kath. Kirchenchors Unterlauchringen zu vollziehen."
         alt:
       - title: "Wilhelm Hamburger wird Chorleiter"
         year: "1925"
