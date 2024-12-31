@@ -20,7 +20,7 @@ de: &DEFAULT_DE
     title: "Hallo!"
     text: "Ein paar Worte über unseren Chor."
     body: |
-      Der Kirchenchor Lauchringen wurde im Jahre 1924 gegründet und besteht heute aus etwa 30 Sängerinnen und Sängern.
+      Der Kirchenchor Lauchringen wurde im Jahre 1924 gegründet und besteht heute aus rund 30 Sängerinnen und Sängern.
       
       Wir gestalten musikalisch die Gottesdienste an Sonn- und Feiertagen und besonders an den kirchlichen Hochfesten. Dabei werden jährlich bis zu drei klassische Orchestermessen aufgeführt. Zum Repertoire gehören aber auch moderne Kompositionen, neue geistliche Lieder und vereinzelt auch weltliche Chormusik. Größere Werke werden meist als Projekt durchgeführt, bei denen Gastsänger:innen immer herzlich willkommen sind.
     section: Ueber
@@ -31,15 +31,15 @@ de: &DEFAULT_DE
     section: Leistungen
     list:
       - title: "Chorleiterin Doris Schäuble"
-        desc: "Doris ist ausgebildete Kirchenmusikerin."
+        desc: "(Vita)"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
         image: assets/img/portfolio/doris.jpg
       - title: "Organistin Christel "
-        desc: "Hier können Sie etwas mit **Markdown** einfügen."
+        desc: "(Vita)"
         icon: fab fa-markdown
         image: assets/img/portfolio/christel.jpg
       - title: "Vorsitzender Herbert Schnäbele"
-        desc: "Herbert ist Vorsitzender."
+        desc: "(Vita)"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
         image: assets/img/portfolio/herbert.jpg
 
@@ -51,7 +51,7 @@ de: &DEFAULT_DE
 
   news:
     title: "Aktuelles"
-    text: "Das bewegt uns: News und Events rund um unsere Gemeinschaft."
+    text: "Das bewegt uns: News und Events rund um unseren Chor."
     body: |
       Aktuelle [Mitteilungen](https://crossiety.app/groups/14227/posts){:target="_blank"} und [Termine](https://crossiety.app/groups/14227/agenda){:target="_blank"} veröffentlichen wir auf [Crossiety](https://crossiety.app/groups/14227){:target="_blank"}, dem digitalen Dorfplatz der Gemeinde Lauchringen.
     section: News
@@ -66,7 +66,6 @@ de: &DEFAULT_DE
       - title: "Chorgründung"
         year: "August 1924"
         desc: "Unser Chor wird gegründet von Pfarrer Ludwig Tröndle und Lehrer Linus Beha."
-        image: assets/img/timeline/1.jpg
         alt:
       - title: "Wilhelm Hamburger wird Chorleiter"
         year: "1925"
@@ -88,8 +87,8 @@ de: &DEFAULT_DE
         image: assets/img/timeline/3.jpg
         alt: Bildbeschreibung
       - title: "Wir feiern 100. Geburtstag"
-        year: "Oktober 2024"
-        desc: "Unser 100-jähriges Chorjubiläum feiern wir mit einem Jubiläumskonzert."
+        year: "2024"
+        desc: "Unser 100-jähriges Chorjubiläum feiern wir mit einem Jubiläumskonzert am ."
         image: assets/img/timeline/3.jpg
         alt: Bildbeschreibung
         
@@ -104,6 +103,39 @@ de: &DEFAULT_DE
 
 
 
+
+
+  team:    # Kontakt
+    title: "Kontakt"
+    text: "Wir freuen uns, von dir zu hören."
+    subtext: |
+      **Willst du mitsingen?** 
+      
+      Alles, was du brauchst, ist Freude am Singen!
+      
+      Schau einfach mal bei uns vorbei. Wir proben immer dienstags, 20:00-21:30 Uhr im Kath. Pfarrsaal Unterlauchringen (Schulstraße 14, neben der Herz-Jesu-Kirche).
+    section: Team
+    people:
+      - name: "Doris Schäuble"
+        role: "Chorleiterin"
+        image: assets/img/portfolio/doris.jpg
+        social:
+          - url: mailto:schaubledoris@hotmail.com
+            icon: fas fa-at
+      - name: "Herbert Schnäbele"
+        role: "Vorsitzender"
+        image: assets/img/portfolio/herbert.jpg
+        social:
+          - url: mailto:herbert@schnaebele.com
+            icon: fas fa-at
+
+  footer:
+    legal: "Impressum"
+    social:
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+      - url: https://crossiety.app/groups/14227/posts
+        icon: "fas fa-hashtag"
 
   clients:
     section: Kunden
@@ -123,28 +155,6 @@ de: &DEFAULT_DE
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "Kontakt"
-    text: "Wir freuen uns, von dir zu hören."
-    subtext: |
-      **Willst du mitsingen?** 
-      
-      Alles, was du brauchst, ist Freude am Singen. Schau einfach mal vorbei.
-    section: Team
-    people:
-      - name: "Doris Schäuble"
-        role: "Chorleiterin"
-        image: assets/img/portfolio/doris.jpg
-        social:
-          - url: mailto:doris@kirchenchor-lauchringen.de
-            icon: fas fa-at
-      - name: "Herbert Schnäbele"
-        role: "Vorsitzender"
-        image: assets/img/portfolio/herbert.jpg
-        social:
-          - url: mailto:herbert@schnaebele.com
-            icon: fas fa-at
-
   contact:
     title: "Kontakt"
     text: "Kontaktieren Sie uns."
@@ -160,12 +170,6 @@ de: &DEFAULT_DE
     subject: "Kontakt-Formular Bestätigung"
     submit: "Nachricht absenden"
 
-  footer:
-    legal: "Impressum"
-    social:
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-      - url: https://crossiety.app/groups/14227/posts
-        icon: "fas fa-hashtag"
+
 de-DE:
   <<: *DEFAULT_DE
