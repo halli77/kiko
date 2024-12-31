@@ -53,7 +53,7 @@ de: &DEFAULT_DE
     title: "Aktuelles"
     text: "Das bewegt uns: News und Events rund um unsere Gemeinschaft."
     body: |
-      Aktuelle [Mitteilungen](https://crossiety.app/groups/14227/posts) und [Termine](https://crossiety.app/groups/14227/agenda) veröffentlichen wir auf [Crossiety](https://crossiety.app/groups/14227), dem digitalen Dorfplatz der Gemeinde Lauchringen.
+      Aktuelle [Mitteilungen](https://crossiety.app/groups/14227/posts){:target="_blank"} und [Termine](https://crossiety.app/groups/14227/agenda){:target="_blank"} veröffentlichen wir auf [Crossiety](https://crossiety.app/groups/14227){:target="_blank"}, dem digitalen Dorfplatz der Gemeinde Lauchringen.
     section: News
 
   timeline:
