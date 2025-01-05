@@ -13,10 +13,10 @@ de: &DEFAULT_DE
   nav:
     - title: "Hallo!"
       section: Ueber
-    - title: "Team"
-      section: portfolio
     - title: "Aktuelles"
       section: News
+    - title: "Team"
+      section: portfolio
     - title: "Geschichte"
       section: Geschichte
     - title: "Kontakt"

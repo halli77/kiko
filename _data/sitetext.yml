@@ -23,6 +23,13 @@ de: &DEFAULT_DE
       Der Kirchenchor Lauchringen wurde im Jahre 1924 gegründet und besteht heute aus rund 30 Sängerinnen und Sängern.
       
       Wir gestalten musikalisch die Gottesdienste an Sonn- und Feiertagen und besonders an den kirchlichen Hochfesten. Dabei werden jährlich bis zu drei klassische Orchestermessen aufgeführt. Zum Repertoire gehören aber auch moderne Kompositionen, neue geistliche Lieder und vereinzelt auch weltliche Chormusik. Größere Werke werden meist als Projekt durchgeführt, bei denen Gastsänger:innen immer herzlich willkommen sind.
+    
+      **Willst du mitsingen?** 
+      
+      Alles, was du brauchst, ist Freude am Singen!
+      
+      Schau einfach mal bei uns vorbei. Wir proben immer dienstags, 20:00-21:30 Uhr im Kath. Pfarrsaal Unterlauchringen (Schulstraße 14, neben der Herz-Jesu-Kirche).
+    
     section: Ueber
 
   services:
@@ -108,12 +115,7 @@ de: &DEFAULT_DE
   team:    # Kontakt
     title: "Kontakt"
     text: "Wir freuen uns, von dir zu hören."
-    subtext: |
-      **Willst du mitsingen?** 
-      
-      Alles, was du brauchst, ist Freude am Singen!
-      
-      Schau einfach mal bei uns vorbei. Wir proben immer dienstags, 20:00-21:30 Uhr im Kath. Pfarrsaal Unterlauchringen (Schulstraße 14, neben der Herz-Jesu-Kirche).
+    subtext: 
     section: Team
     people:
       - name: "Doris Schäuble"
