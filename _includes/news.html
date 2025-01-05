@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].news.title | default: "About Us" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].news.text | default: "" }}</h3>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].news.text | default: "" | markdownify }}</h3>
       </div>
     </div>
     <div class="row">
@@ -28,7 +28,7 @@
                 <div class="card-body">
                 <h5 class="card-title">{{ event.titel }}</h5> 
                 <p class="card-text"><small class="text-body-secondary">{{ event.text }}</small></p>
-                <a class="btn btn-primary" href="{{ event.link }}" role="button" target="_blank"><i class="fa fa-arrow-right"></i>WEITERLESEN AUF CROSSIETY</a>
+                <a class="btn btn-primary" href="{{ event.link }}" role="button" target="_blank"><i class="fa fa-arrow-right"></i> WEITERLESEN AUF CROSSIETY</a>
                 </div>
             </div>
             </div>
