@@ -1,0 +1,11 @@
+
+events:
+  - titel: Hallo Welt
+    datum: 2024-12-21
+    image: https://crossiety.app/s3/crossiety/news_cards/1045983/968f8f4deb5fd0b2648b9b09866c6ffe102d6629.jpg?1734942702
+    text: Ich bin der Beitragstext
+  - titel: Zweiter Artikel
+    datum: 2024-12-30
+    image: https://crossiety.app/s3/crossiety/news_cards/999719/fb20e876cf0f9b68a01e30dd91dc4cbe579b6032.jpg?1730575696
+    text: Hier ist der zweite Beitragstext
+

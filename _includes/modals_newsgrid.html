@@ -1,5 +1,5 @@
 <!-- Portfolio Modals -->
-{% for post in site.posts %}
+{% for event in site.data.news.events %}
 {% if site.locale and site.locale != "" and site.locale != nil %}
 <div
   class="portfolio-modal modal fade"
@@ -20,13 +20,13 @@
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">
               <!-- Project Details Go Here -->
-              <h2 class="text-uppercase">{{ page.title }}</h2>
-              <p class="item-intro text-muted">{{ content }}</p>
+              <h2 class="text-uppercase">{{ event.titel }}</h2>
+              <p class="item-intro text-muted">{{ event.titel }}</p>
               <img
                 class="img-fluid d-block mx-auto"
-                src="{{ post.thumbnail }}" 
+                src="{{ event.image }}" 
               />
-              <p>{{ project.content }}</p>
+              <p>{{ event.text }}</p>
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
