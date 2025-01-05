@@ -58,9 +58,8 @@ de: &DEFAULT_DE
 
   news:
     title: "Aktuelles"
-    text: "Das bewegt uns: News und Events rund um unseren Chor."
-    body: |
-      Aktuelles veröffentlichen wir auf [Crossiety](https://crossiety.app/groups/14227){:target="_blank"}, dem digitalen Dorfplatz der Gemeinde Lauchringen. Hier die letzten drei Beiträge.
+    text: Aktuelles veröffentlichen wir auf [Crossiety](https://crossiety.app/groups/14227){:target="_blank"}, dem digitalen Dorfplatz der Gemeinde Lauchringen.
+    body: 
     section: News
 
   timeline:
@@ -74,15 +73,18 @@ de: &DEFAULT_DE
         year: "1924"
         desc: "Am 13. August 1924 trafen sich Pfarrer Ludwig Tröndle, Lehrer Linus Beha und Mitglieder des bereits seit 1921 bestehenden gemischten Chores, um die Gründung des Kath. Kirchenchors Unterlauchringen zu vollziehen."
         alt:
-      - title: "Wilhelm Hamburger wird Chorleiter"
-        year: "1925"
-        desc: "Wilhelm Hamburger leitet den Chor von 1925 bis 1950."
-      - title: "Georg Lachnit übernimmt den Dirigentenstab"
+      - title: "Die ersten Jahre"
+        year: "1925-1950"
+        desc: "Der Chor wuchs in wenigen Jahren zu der stattlichen Größe von 40 Sängerinnen und Sängern heran. Unter der Leitung von Wilhelm Hamburger (1925-1950) und Georg Lachnit (1950-1973) erreichte der Chor eine hohe gesangliche Qualität und das Repertoir wurde von vierstimmigen Chorgesängen und Chorälen auf lateinische Messen, Orgel- und Orchestermessen sowie Kantaten und Oratorien der berühmten klassischen Komponisten aus allen musikalischen Epochen ausgeweitet."
+      - title: "Zweiter Weltkrieg"
         year: "1950"
-        desc: "Geord Lachnit leitet den Chor von 1950 bis 1973."
+        desc: "Während des zweiten Weltkriegs wurde der Sonntagsgesang aufrechterhalten, es fanden jedoch keine Sitzungen und Versammlungen statt."
       - title: "Richard Schepperle wird Chorleiter"
         year: "1973"
-        desc: "Geord Lachnit leitet den Chor von 1950 bis 1973."
+        desc: "Im Jahr 1973 übernahm Richard Schepperle (1973-2013) den Dirigentenstab und führte die bewährte Arbeit seiner Vorgänger mit viel Engagement und Ausdauer nicht nur fort, sondern baute sie weiter aus. Dabei stellte er das Chorsingen durch das Einstudieren unzähliger neuer Werke auf eine sehr breite Basis. In seiner 40jährigen Tätigkeit als Chorleiter studierte er rund 20 neue Messen ein und bestritt rund 700 Auftritte, davon 100 mit Soli- und Orchesterbegleitung."
+      - title: "Henriette Wilkes wird Chorleiterin"
+        year: "2013"
+        desc: "Mit großer Freude empfing der Chor die neue Chorleiterin Henriette Wilkes (2013-2022), die die Mitglieder mit „allzeit schöne Töne“ begrüßte. Sie baute auf dem großen Erfahrungsschatz des Chores auf, zeigte sich jedoch auch erfreut über die Bereitschaft Veränderungen anzunehmen. So wurde z.B. dem Wunsch Rechnung getragen, das Patrozinium künftig als Familiengottesdienst mit entsprechender Literatur zu gestalten. In ihrer Zeit reifte auch die Zusammenarbeit mit dem Kinder- und Jugendchor Soleil, die Werbung um Gastsänger und die Ausweitung des Kantorengesangs heran."
       - title: "Doris Schäuble wird Chorleiterin"
         year: "März 2022"
         desc: "Doris Schäuble wird Chorleiterin, gemeinsam mit Christel Mülhaupt."
